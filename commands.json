@@ -1,0 +1,13 @@
+{
+  "greetings": ["hello", "hi"],
+  "identity": ["who are you", "what are you"],
+  "user": ["my name"],
+  "time": ["time"],
+  "date": ["date"],
+  "battery": ["battery"],
+  "apps": ["open calculator", "open note", "open chrome", "open brave", "open vs code", "open terminal", "open wireshark", "open arduino", "open spotify", "open folder"],
+  "websites": ["open youtube", "open google"],
+  "system": ["shutdown", "restart", "sleep"],
+  "extras": ["weather", "joke", "cpu usage", "memory usage", "greet me"],
+  "exit": ["bye", "quit", "close"]
+}
